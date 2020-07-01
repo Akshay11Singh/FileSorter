@@ -1,0 +1,10 @@
+Akshay Singh Rocks
+IndiaIndiaIndiaIndiaIndiaIndiaAkshayIndiaIndiaIndiaIndiaIndiaIndiaAkshayIndiaIndiaIndiaIndiaIndiaIndiaAkshay
+List <Person> personReslut = list.stream().filter(person->{
+			Person plamba = new Person();
+			if (person.getName().equals("Akshays")){	
+				return true;
+			}
+			return false;
+		}).collect(Collectors.toList());
+       Akshay Singh Rocks Akshay Singh Rocks  
